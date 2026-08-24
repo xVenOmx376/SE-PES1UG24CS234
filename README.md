@@ -19,16 +19,13 @@
 The UML diagram uses `UC-01 <<include>> UC-06` because retrieving Jira task details is required while logging time against a Jira task. It uses `UC-04 <<extend>> UC-03` because approval/rejection is a conditional action following review.
 
 ## Requirements Deliverables
-- `requirements_table.docx` — formatted requirements table with exactly 5 FRs and 2 NFRs.
-- `requirements_table.xlsx` — spreadsheet version of the same requirements table.
+- `PES1UG24CS234_Requirements_Table.docx` — formatted requirements table with exactly 5 FRs and 2 NFRs.
 
 ## UML Deliverables
-- `remote_team_timesheet_use_case.drawio` — editable draw.io-compatible source file.
-- `remote_team_timesheet_use_case.pdf` — PDF representation of the completed UML use-case diagram.
+- `PES1UG24CS234_UML_Use_Case Diagram.pdf` — PDF representation of the completed UML use-case diagram.
 
 ## Use-Case Flow Deliverables
-- `use_case_flow_approve_reject_timesheet.docx` — one-page UC-04 flow specification.
-- `use_case_flow_approve_reject_timesheet.pdf` — PDF export of the flow specification.
+- `PES1UG24CS234_Use_Case_Flow_Document.pdf` — PDF export of the flow specification.
 
 ## Source Alignment
 The deliverables follow Problem Statement #46 and the Lab 1 handout. The problem statement names Remote Developer and Engineering Manager; Jira is included here as the requested third actor representing the external Jira system. The requirements retain the supplied wording for FR-001 and NFR-001, while the remaining requirements are drafted to complete the required five FRs and two NFRs.
