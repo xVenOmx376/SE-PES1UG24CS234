@@ -25,7 +25,7 @@ The UML diagram uses `UC-01 <<include>> UC-06` because retrieving Jira task deta
 - `PES1UG24CS234_UML_Use_Case Diagram.pdf` — PDF representation of the completed UML use-case diagram.
 
 ## Use-Case Flow Deliverables
-- `PES1UG24CS234_Use_Case_Flow_Document.pdf` — PDF export of the flow specification.
+- `PES1UG24CS234_Use_Case_Flow_Document.docx` — docx export of the flow specification.
 
 ## Source Alignment
 The deliverables follow Problem Statement #46 and the Lab 1 handout. The problem statement names Remote Developer and Engineering Manager; Jira is included here as the requested third actor representing the external Jira system. The requirements retain the supplied wording for FR-001 and NFR-001, while the remaining requirements are drafted to complete the required five FRs and two NFRs.
